@@ -17,4 +17,4 @@ function searchInsert(nums, target) {
     }
   }
 }
-searchInsert();
+searchInsert([1, 2, 4], 5);
